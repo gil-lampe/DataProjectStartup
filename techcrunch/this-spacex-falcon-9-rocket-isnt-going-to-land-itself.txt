@@ -1,0 +1,6 @@
+Elon Musks SpaceX is trying to launch a spacecraft and have the rockets return safely to Earthspecifically on a floating barge. As it turns out, its not that easy. And it costs a lot of money. Theres now a web game that lets you give it a try yourself.In case you forgot, heres what happened in real life:Think its easy? Try the game. Its aptly called SpaceX Falcon 9 Lander. SPOILER ALERT: Its freaking impossible.Not just a little impossible. A lot impossible. Here are the instructions, where they immediately lost me:The objective of the game is to slow down and land on the platform.
+Press SPACE to change level.
+
+Your thrusters use monopropellant, the main engine uses engine fuel. Letting either run out has obvious effects.
+
+Press H to toggle velocity vector.Let us know if you can land the damn rocket.

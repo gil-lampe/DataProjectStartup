@@ -1,0 +1,24 @@
+This years TechCrunch Disrupt NY Hackathon is set to be the best yet. Were a week away from the main event and are giddy with excitement.Throughout the week, well be releasing information about the event, and we figured where better to start than with details about spectator tickets, our sponsors and their awesome prizes.The last round of tickets for hackathon participantsis available now, so go quick and get registered.Grab a seat to watch the culminationof all the hard work our hackers put in over the weekend. Today, were releasing spectator tickets to watch the presentations of the hack projects on Sunday, May 8. These are for those who arent hacking but want to watch thehacks and winners. You can register for a spectator ticket here.We are thrilled to announce that Rebecca Garcia and Tarikh Korulawill be joining us as MCs.Rebecca Garcia is a passionate advocate for STEM education for youth and minorities  particularlywomen. She is the co-founder of CoderDojo NYC; was named a White House Champion of Change for Tech Inclusion; Glamour Magazines 35 Women Under 35 Who are Changing the Tech Industry;was one of AskMens Top 99 Outstanding Women;and is Hispanicizes STEM star this year. Currently she is the technical head of product at Next Caller.Our sponsors have provided some amazing prizes. Check out these contests running at the hackathon:Amazon AlexaBest use of Amazon Alexa in a voice user experience. The winning team will receive an echo for each team member (up to four).Cisco
+Come hack with Cisco Spark! Connect applications and processes to enhance customer engagement across many industries or solve problems. Use Cisco Spark APIs to integrate and customize collaboration experiences. These open APIs are easy-to-use with access to 24/7 developer support, so you can build offthe platforms anytime from anywhere.Prize:
+Cisco will be giving away DJI Phantom 3 Standard drones and BB8 Spheros (5 of each) for the best use of our Cloud Collaboration APIs in a hackHARMAN InternationalHarman isproviding two different SDKs for the first commercial readily available hackable headphones (Everest 700) and the first glance-able speaker to market (Pulse 2).Prizes
+HARMAN International (2)
+Best Overall use of Everest Headphones SDK
+Winning team receives a max of 5 Everest Headphones 5 Pulse 2 Speakers
+& 5 Omni 10 SpeakersBest Overall use of Everest Headphones SDK:
+Winning team receives a max of 5 Everest Headphones 5 Pulse 2 Speakers
+& 5 Omni 10 SpeakersHave a great idea on how you can build with Watson?Exercise your skills and creativity by creating a cognitive app using Watson services. Leverage the latest in self-learning technology. Participate in the IBM Watson category to:Prize: Apple Watch (each member of the winning team up to five members)Microsoft1.Office Apps and Add-ins Contest
+Two ways to be eligible for this contest: Build using Office 365 APIs powered by Microsoft Graph
+OR
+ Build an Outlook, Word or Excel add-inJudging Criteria Categories:
+ Solutions that help solve big problems and provide high user value
+ Completeness of the solution; build a working solution that can be used right away
+ Extensive use of Office developer platform; use several REST APIs or build an add-in2.Office 365 Connectors Contest
+Build using the Office 365 Connector platformJudging Criteria Categories:
+ Solutions that help solve big problems and provide high user value
+ Completeness of the solution; build a working solution that can be used right away
+ Extensive use of Office 365 Connectors platformpmdtechnologies
+Google CardBoard devices have been around for a whilewith hundreds of developers creating apps for it but without touchless interaction. Until now.pmd,Googles 3D depth sensing partner for Project Tango, is making its technology available for CardBoard developers, successfully partnering with gestigon enablingthe most intuitive and immersive input for VR: touchless interaction.Using pmds 3D ToF technology in combination with gestigons Carnival SDK enables you to understand where your hands and fingertips are. Playing VR chess, re-decorating your VR living room, grap/touch/push/pull VR content, even bringing real objects into the virtual world  we are happy to put this into your hands. Literally.Prize: $5,000Twilio
+The best use of Twilios API will score you an Amazon Tap for each member of the team.URBAN-XURBAN-Xs mission is to catalyze, educate, invest in, and advocate for startups who are shaping the future of cities through technology. Hack with city data, creating new products and services that make cities more livable, efficient, and sustainable. This is your chance to show us what you can build to make the city a better place and have your worked judged by people passionate about making it happen. Check Devpostfor more info.
+ 1st place  $3000
+ 2nd place  $1500
+ 3rd place  $500

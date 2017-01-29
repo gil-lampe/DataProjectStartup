@@ -1,0 +1,9 @@
+Just because a renter didnt crash your car, doesnt mean they didnt damage it. You dont want to rent to someone who red lines the engine, drives in too low a gear, or burns the tires peelingout.Thats the idea behind Cruizing Club, one of the TechCrunch Disrupt SF Hackathon projects. It uses the plug-inOBD connector on cars to monitor peoples driving quality. Cruizing Club then gives drivers a score which could be used to pre-approve someone for renting, or ensure they treated the car well during a rental.You can watch Cruizing Clubs Hackathon presentation here:
+
+
+Facebook
+
+LinkedIn
+
+Cruizing Club
+Tom Rutka and Quynh built Cruising Club atop Vinli, a connected car platform. Innovation around the OBD port thats under the dashboard in all cars made after 1996 has produced several new startups, including MetroMile, a per-mile car insurance provider.Cruizing Club could give people more confidence when using services like Getaround, RelayRides, or FlightCar to rent out their car. While these startups offer insurance for physical damage to your cars exterior or interior while its being rented, they had no way to monitor whether the driver was or wasnt abusing the vehicle.For someone who plans to drive their car for a long time or eventually sell it, the assurance that a renter is respectable is crucial.

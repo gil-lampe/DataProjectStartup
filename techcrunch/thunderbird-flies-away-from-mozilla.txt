@@ -1,0 +1,94 @@
+The Mozilla Foundation looks like its about to take another step in its bid to sharpen its focus on development around its Firefox browser. Mozilla now wants toonce and for all hive off support forThunderbird, the free email, chat and news client it first developed in 2004 but effectively stopped directly updating in in 2012. The plans were revealed ina company-wide memo penned today by chairperson Mitchell Baker. (We have confirmed withMozilla that it is indeed fromher.)I believe Thunderbird should would thrive best by separating itself from reliance on Mozilla development systems and in some cases, Mozilla technology, Baker wrote in her open memo, posted on Mozillas public governance forum. The current setting isnt stable, and we should start actively looking into how we can transition in an orderly way to a future where Thunderbird and Firefox are un-coupled.Baker notes that it is not clear whether Mozilla will try tospin off Thunderbird as its own open-source entity, or whether it willseek a business partner to take over the product; it seems too early to tell at this point.What is more clear is that Mozilla has been trying to streamline how it runs things and the focus of its engineers as part of a bigger campaign to rejuvenate Firefox,part of a long-termfightback to gain more market share against competitors like Google Chrome.Mozilla now views any support for Thunderbird, even the limited support it has been providing for the past three years, as akin to paying a tax, in Bakers words, on top of the work those engineersspend building Firefox.These competing demands are not good for either project, she writes. Engineers working on Thunderbird must focus on keeping up and adapting Firefoxs web-driven changes. Engineers working on Firefox and related projects end up considering the competing demands of Thunderbird, and/or wondering if and how much they should assist Thunderbird. Neither project can focus wholeheartedly on what is best for it.Apart from the fact that Mozilla had cut off most development support in 2012, Thunderbird has become asomewhat anachronistic product.Hitting the market in 2004,at a time when many consumers were still wedded to desktop clients to access email services,Thunderbird got off to a flying start, with 1 million downloads in its first 10 days of life. But inthe years following, many switched to mobile apps and web-based clients,andThunderbirds popularity waned.Mozilla and the wider Thunderbird community have not provided any updates on how many Thunderbird users there are today, or how many downloads of the client, or what kind of usage the application sees.And for Mozilla itself, focus has largely switched to developing its core Firefox browser for more platforms, and generally making Firefox more of a business,integrating with Yahoo and Googleto generate revenues around search ads.When Mozilla passed Thunderbird development on to a volunteer-led community in 2012, it committed itself only to providing extended support releases focused only onsecurity and maintenance updates mainlyaimed at large organizations who use Thunderbird.In that regard, for Thunderbird and its users,this is potentially a rough turn, but its not really a surprising one.Full text of the memo below:This is a long-ish message. It covers general topics about Thunderbird
+and the future, and also the topics of the Foundation involvement (point
+9) and the question of merging repositories (point 11).  Naturally, I
+believe its worth the time to read through the end.1. Firefox and Thunderbird have lived with competing demands for some
+time now. Today Thunderbird developers spend much of their time
+responding to changes made in core Mozilla systems and technologies. At
+the same time, build, Firefox, and platform engineers continue to pay a
+tax to support Thunderbird.2. These competing demands are not good for either project. Engineers
+working on Thunderbird must focus on keeping up and adapting Firefoxs
+web-driven changes. Engineers working on Firefox and related projects
+end up considering the competing demands of Thunderbird, and/or
+wondering if and how much they should assist Thunderbird. Neither
+project can focus wholeheartedly on what is best for it.3. These competing demands will not get better soon. Instead, they are
+very likely to get worse. Firefox and related projects are now speeding
+up the rate of change, modernizing our development process and our
+infrastructure. Indeed, this is required for Mozilla to have significant
+impact in the current computing environment.4. There is a belief among some that living with these competing demands
+is good for the Mozilla project as a whole, because it gives us an
+additional focus, assists Thunderbird as a dedicated open source
+community, and also supports an open source standards based email
+client. This sentiment is appealing, and I share it to some extent.
+There is also a sense that caring for fellow open source developers is
+good, which I also share. However, point 2 above  Neither project can
+focus wholeheartedly on what is best for it  is the most important
+point. Having Thunderbird has an additional product and focus is *not*
+good overall if it causes all of our products  Firefox, other
+web-driven products and Thunderbird  to fall short of what we can
+accomplish.5. Many inside of Mozilla, including an overwhelming majority of our
+leadership, feel the need to be laser-focused on activities like Firefox
+that can have an industry-wide impact.  With all due respect to
+Thunderbird and the Thunderbird community, we have been clear for years
+that we do not view Thunderbird as having this sort of potential.6. Given this, its clear to me that sooner or later paying a tax to
+support Thunderbird will not make sense as a policy for Mozilla.  I
+know many believe this time came a while back, and Ive been slow to say
+this clearly. And of course, some feel that this time should never
+come. However, as I say, its clear to me today that continuing to live
+with these competing demands given our focus on industry impact is
+increasingly unstable. Weve seen this already, in an unstructured way,
+as various groups inside Mozilla stop supporting Thunderbird. The
+accelerating speed of Firefox and infrastructure changes  which I
+welcome wholeheartedly  will emphasize this.7. Some Mozillians are eager to see Mozilla support community-managed
+projects within our main development efforts. I am also sympathetic to
+this view, with a key precondition. Community-managed projects that
+make the main effort less nimble and likely to succeed dont fit very
+well into this category for me. They can still be great open source
+projects  this is a separate question from whether the fit in our main
+development systems. I feel so strongly about this because I am so
+concerned that the Web we love is at risk. If we want the traits of
+the Web to live and prosper in the world of mobile, social and data then
+we have to be laser-focused on this.8. Therefore I believe Thunderbird should would thrive best by
+separating itself from reliance on Mozilla development systems and in
+some cases, Mozilla technology. The current setting isnt stable, and we
+should start actively looking into how we can transition in an orderly
+way to a future where Thunderbird and Firefox are un-coupled.  I dont
+know what this will look like, or how it will work yet. I do know that
+it needs to happen, for both Firefox and Thunderbirds sake. This is a
+big job, and may require expertise that the Thunderbird team doesnt yet
+have.  Mozilla can provide various forms of assistance to the
+Thunderbird team via a set of the Mozilla Foundations capabilities.9. Mark Surman of the Mozilla Foundation and I are both interested in
+helping find a way for Thunderbird to separate from Mozilla
+infrastructure. We also want to make sure that Thunderbird has the right
+kind of legal and financial home, one that will help the community
+thrive. Mark has been talking with the Thunderbird leadership about
+this, and has offered some of his time and focus and resources to
+assist. He will detail that offer in a separate message. We both
+recognize that the Thunderbird community is dedicated to sustaining a
+vibrant open source project, which is why were currently looking at how
+best to assist with both technical separation and identifying the right
+long-term home for Thunderbird. These discussions are very early, so
+its easy to you can definitely think of a lot of questions for which
+there ares no answers yet.10. The fact that the Foundation is facilitating these discussions does
+not necessarily mean that the Foundation is or is not the best legal and
+financial home for Thunderbird. The intent is not to make technical
+decisions about support of Thunderbird by Mozilla employees, or merging
+repositories, etc. Point 6 above is the shared organizing principle for
+both of us.11. I understand from recent discussions that merging mozilla-central
+and comm-central would provide some reduction of effort required to ship
+Thunderbird, at least in the short term. This would make sense if our
+path was long term integration of the projects. As i noted above, I
+believe our path has to be the long term separation of these projects,
+so that each can move as fast as possible into new things. Given that,
+Im not sure that merging them makes sense. I have to learn a bit more
+about the cost / benefit analysis of merging repositories given the need
+to separate these project. Im asking the platform and release folks to
+comment on this.12. This message is about the future and theres a lot to work out.
+Its explicitly not to announce changes in daily activities at this
+point. People using Thunderbird will not see any change in the product
+they use.  We have started this conversation early because Mozilla
+works best when our community is engaged. This is how we gather the
+people who are interested, and enable those folks to engage productively
+within the process. It also of course allows those who prefer a
+different course of action to be vocal. Weve seen this before with
+Thunderbird.  Building a positive response and a positive conversation
+will be a very useful first step in making a good future for Thunderbird.MitchellUpdate: Baker has also posted about Thunderbird on her personal blog, noting that the plan is not based on dropping Thunderbird.

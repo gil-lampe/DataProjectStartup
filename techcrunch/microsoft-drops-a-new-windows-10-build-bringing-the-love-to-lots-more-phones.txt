@@ -1,0 +1,36 @@
+Its New Build Day for Microsoft kids, as the Redmond software shop dropped new code that will bring Windows 10 to a host of smartphones that were previously not able to handleto the beta operating system.The build, number 10051, brings a host of new features to Windows 10 for phones, including refreshed core applications and the Project Spartan browser that has already cropped up for PCs running Windows 10.Also in the mix is a new universal Maps application. Microsoft is working to bring all of computing under a single roof. That makes the Maps app important: Here is Microsoft showing off how apps will scale from small to large across various screen sizes.According to the company, the new app includes the best maps, aerial imagery, rich local search data, and voice-guided navigation experiences from both Bing Maps and HERE maps, integrated together for the first time into a single app for Windows.Below is a list of supported phones:Lumia 1020
+Lumia 1320
+Lumia 1520
+Lumia 520
+Lumia 525
+Lumia 526
+Lumia 530
+Lumia 530 Dual Sim
+Lumia 535
+Lumia 620
+Lumia 625
+Lumia 630
+Lumia 630 Dual Sim
+Lumia 635
+Lumia 636
+Lumia 638
+Lumia 720
+Lumia 730
+Lumia 730 Dual SIM
+Lumia 735
+Lumia 810
+Lumia 820
+Lumia 822
+Lumia 830
+Lumia 920
+Lumia 925
+Lumia 928
+Microsoft Lumia 430
+Microsoft Lumia 435
+Microsoft Lumia 435 Dual SIM
+Microsoft Lumia 435 Dual SIM DTV
+Microsoft Lumia 532
+Microsoft Lumia 532 Dual SIM
+Microsoft Lumia 640 Dual SIM
+Microsoft Lumia 535 Dual SIM
+If you want the new build, make sure that you are on the fast release ring. Otherwise, you will have to sit tight.The development pace of Windows 10 remains rapid. Its been notable to watch the enthusiasm gap between the current Windows 10 release cycle, and what took place with Windows 8. Thats to say that people seem to care more this time around.An example of this is my new Twitter nemesis, Gabe Aul from the Windows 10 team, who regularly racks up oodles of favorites for his oracular drippings concerning when new code might, or might not, land:Riveting. You can check shots of the new build here.

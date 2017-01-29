@@ -1,0 +1,9 @@
+
+
+
+Facebook
+
+LinkedIn
+
+TheHelpingHand.Club
+Coders stayed up all night at the TechCrunch Disrupt NY Hackathon this weekend in Brooklyn, New York. With just 24 hours to build something meaningful, it was no easy task.But four gentlemen met at the event and decided to build an app that could help keep homeless people off the streets and give them the care that they need.Called TheHelpingHand.club, the app routes Ubers to nearby shelters, soup kitchens and hospitals. A user can open up the app and a map shows which local facilities are open. Just tap the icon to call an Uber to pick someone up and bring them to a helpful destination.Sometimes you encounter people begging for money and youd like to help them, but you dont necessarily want to give them money, said co-founder A. Adesina Lalude, a resident of Hamburg, Germany and a consultant for startups. With TheHelpingHand.club, you can gift a ride to any homeless person to make sure they get to the destination that suits their needs.The app is currently using the information from New Yorks Open Data to power the service, but the team expects to continue working on the app and expand to regions outside of New York. TheHelpingHand.club also utilized Esri, Google Maps and Twilio to build their service. They said they were inspired by the Urban-X sponsor, which encouraged hackathon participants to develop something that would make cities a better place. Lalude met Kuldeep Marathe, a software developer for a financial company, in a shared uberPOOL ride on the way to the Hackathon. At the event, they teamed up with Chris Sullivan, a 17-year-old high school student from Maryland, and Sadruddin Saleem, a student at Northeastern.With dozens of teams competing to win the Hackathon contest, its not clear yet whether they will get a prize. Regardless, they hope that TheHelpingHand.club will give people some tangible meaningful help, said Lalude.

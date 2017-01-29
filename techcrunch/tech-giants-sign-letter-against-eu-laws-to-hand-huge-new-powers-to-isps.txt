@@ -1,0 +1,48 @@
+New European legislation which threatens net neutrality is set to go before the EU Parliament Tuesday. The EU is planning new rules it claims will protect Net neutrality, but a leading legal expert says it will in fact do the exact opposite.Stanford Law Professor Barbara van Schewick, also Director of the Stanford Center for Internet and Society, has collated signatures from almost 50 tech giants, startups and investors for an open letter which will be sent to EU legislators today.Signatories include major investors Union Square Ventures, Felix Capital, Etsy, EyeEm, Foursquare, Kickstarter, Meetup, Netflix, Sunstone Capital, Earlybird Ventures, SoundCloud, Vimeo and Tim Berners-Lee, inventor of the World Wide Web and Larry Lessig.The proposal before the Parliament contains four major problems that undermine network neutrality and threaten to undermine the EU technology industry by giving ISPs enormous new powers: Fast Lanes for content chosen by ISPs; Zero-rating content determined solely by ISPs; Class-Based Discrimination determined solely by ISPs; and Impending Congestion Management, once again, determined solely by ISPs.Additionally a group of campaigners called savetheinternet.eu is targeting both the EU President Jean-Claude Juncker and Gnther H. Oettinger, the EU Commissioner for Digital Economy and Society, (@EP_President and @GOettingerEU), asking startups and investors to contact an EU representative directly warning them about the dangers of the legislation.Some members of the EU Parliament have proposed key amendments that could address the problems outlined above. But thats only if the amendments are included.The full list of signatories is below:Allied for Startups
+Automattic, Inc. (WordPress.com)
+BitTorrent
+Brad Burnham, Union Square Ventures
+Coalition for a Digital Economy (Coadec)
+Cogent
+Contextly
+Frederic Court, Felix Capital
+Distinc.tt
+Engine Advocacy
+Etsy, Inc.
+EyeEm
+Factory
+Brad Feld, Foundry Group
+Founders Forum
+Foursquare
+Nick Grossman, Union Square Ventures
+Hussein Kanji, Hoxton Ventures
+Innotech Network
+kapper.net
+Kickstarter, PBC
+Seth Levine, Foundry Group
+Meetup, Inc.
+Jason Mendelson, Foundry Group
+Ryan McIntyre, Foundry Group
+Netflix
+Dr. Maximilian Niederhofer, Sunstone Capital A/S
+Ciarn OLeary, Earlybird Venture
+David Pakman, Venrock
+Federico PirzioBiroli, Playfair Capital
+Reddit
+Rentify
+Roma Startup
+Seedrs
+Silicon Allee
+Marta Sjgren, Northzone
+SoundCloud Limited
+TechCrunch
+TechHub
+Sitar Teli, Connect Ventures
+TransferWise
+Tumblr, Inc.
+Twilio
+Ubertweek GmbH
+Vimeo
+Fred Wilson, Union Square Ventures
+YPlan
+Jeppe Zink, Northzone

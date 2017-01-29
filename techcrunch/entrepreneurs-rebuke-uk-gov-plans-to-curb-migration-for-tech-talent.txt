@@ -1,0 +1,483 @@
+Plans by the UK government to curtail the number of skilled tech workers allowed into the country have received a stinging rebuke from over 200 of the UKs most successful technology entrepreneurs.The founders of Lastminute.com, TransferWise, Zopa, Unruly, Crowdcube, Nutmeg and Shazam, amongst 230 other tech start-ups and investors, today sent an open letter, to UK Prime Minister David Cameron saying the plans could restrict growth and hurt the UKs digital economy.Included amongst the signatories were Martha Lane Fox, founder of Lastminute.com and the Governments former digital champion; Debbie Wosskow, the chairman of sharing economy body SEUK and a Government adviser; and Hermann Hauser, the founder of Acorn Computers, and tech legend. It also included many prominent backers of Mr. Camerons Conservative Party at the last general electionas well as the founders of Citymapper, DeepMind, SwiftKey and Unruly which has all raised significant VC backing.While net migration levels to the UK have reached new highs, the plans to significantly reduce the number of skilled workers coming to Britain from outside Europe could hurt the UKs ability to hire Europes best talent, says the group of entrepreneurs in the letter which was put together by lobby group Coalition of a Digital Economy.The Governments migration advisory committee is considering plans to raise the minimum salary threshold for the entrepreneur visa (which allows non-Britons to come to the UK to start businesses) so that the visa only applies to director-level roles; as well as putting curbs on the Tier 2 system of skilled work visas, used by many startups to bring in tech talent.The letter stated: The UK has become a global tech hub thanks in large part to start-up founders, investors and employees from across the globe, including many of us who were not born in Britain but choose to invest our time and talents here. We call on [the PM] to ensure that any future changes to the immigration system make it easier, not harder, for qualified digital entrepreneurs to come to the UK to start their business, and for growing start-ups to hire top international talent.According to the Global Skills Index from recruitment group Hays and consultancy Oxford Economics, the skills shortage in Britain worsened for a fourth consecutive year in 2015.Signatories to the letter, organised by Coadec (The Coalition for a Digital Economy), include:Alex Stephany, CEO of JustPark
+Andrew Fisher, Executive Chairman of Shazam
+Azmat Yusuf, founder of Citymapper
+Ben Medlock, co-founder of SwiftKey
+Demis Hassabis and Mustafa Suleyman, co-founders of DeepMind (acquired by Google)
+Hermann Hauser, serial entrepreneur and investor (including founding Acorn Computers, from which ARM was spun out)
+Joe Cohen, founder of Seatwave
+Martha Lane Fox, co-founder of Lastminute.com and former government Digital Champion
+Mike Lynch, co-founder of Autonomy (acquired by HP), and founder of Invoke Capital
+Nick Hungerford, co-founder of Nutmeg
+Robin Klein, investor in startups including TransferWise, Zoopla, LoveFilm
+Saul Klein, Founding Partner, LocalGlobe (formerly Partner at Index Ventures)
+Sarah Wood, co-founder of Unruly
+Taavet Hinrikus and Kristo Kaarmann, co-founders of TransferWiseExecutive Director of Coadec, Guy Levin said: The Government has a strong record supporting digital entrepreneurship, so it doesnt make sense that are considering changes that would make it tougher for startups and scale-ups to thrive. Any changes to the immigration system must make it easier, not harder, for digital entrepreneurs to come to the UK to start their business, and for growing startups to hire top international talent.Commenting, Alex Depledge, co-founder of Hassle.com and Chair of Coadec said: A lack of people with the right skills and experience is holding back the growth of the UKs digital economy. Putting coding on the curriculum and investing in apprenticeships are steps in the right direction, but it is also vital that we are attracting the best talent from around the world. The UK is now home to a world-class startup ecosystem, but if we want those companies to scale, they need to be able to hire the best person for the job, wherever they come from.Sarah Wood, co-founder and co-CEO of Unruly, said: As a global platform for digital video advertising, almost two-thirds of Unrulys revenue comes from outside the UK. We simply could not have scaled the business to the size it is today (15 offices, 28.7m revenue) without the programming expertise and language skills of international software engineers and digital professionals from around the world. If the Government is serious about growing Britains digital economy and competing on a global stage, it cannot afford to cut off the oxygen that feeds our ecosystem  skilled talent from around the world, drawn to London and the UK precisely because of its diversity, creativity and vitality.Text of the Letter and Signatories27 October 2015Dear Prime Minister,We represent a cross-section of the UKs digital startup and scale-up ecosystem, including the founders of Citymapper, DeepMind, JustPark and SwiftKey. The UK has the largest and fastest growing digital economy in the G20, worth over 10% of GDP.During the election campaign you argued that the UK should be the startup nation in Europe, and one of the great startup nations in the world. We share this ambition and applaud your governments long-standing support for the UKs tech community. From SEIS to support for FinTech and the sharing economy, you have championed entrepreneurs and innovators in the interest of securing our countrys long-term economic growth.However, finding talent with the right skills and experience we need to grow our businesses remains one of the biggest barriers to achieving that ambition. The UK has become a global tech hub thanks in large part to startup founders, investors and employees from across the globe, including many of us who were not born in Britain but choose to invest our time and talents here. We are very concerned that changes to immigration policy will make it more difficult to attract and recruit the talent high-growth companies need to compete and succeed in a global marketplace.The governments Migration Advisory Committee is currently examining proposals aiming to further restrict the Tier 2 system of skilled work visas and to reform the Entrepreneur Visa. Further restrictions on skilled migration could restrict the growth of our businesses and hurt the UKs digital economy.We call on you to ensure that any future changes to the immigration system make it easier, not harder, for qualified digital entrepreneurs to come to the UK to start their business, and for growing startups to hire top international talent.It is of course also vital that we continue to support the growth of digital skills within the UK, and we stand ready to do our part.Sincerely yours,Adam Horner
+Co-founder and CTO, Satago
+Adrian Lloyd
+Founder & Partner, Episode 1 Ventures
+Adrian Sevitz
+Co-founder, vzaar limited
+Alain Falys
+Co-founder, Yoyo Wallet
+Alasdair McPherson
+Partner, Craigie Capital
+Alastair Paterson
+CEO, Digital Shadows
+Alena Dundas
+Founder, Gymdeck
+Alex Loizou
+Co-founder, Streethub
+Alex Stephany
+CEO, JustPark
+Alexander Asseily
+Founder, State, Jawbone and Elvie
+Alexander Trewby
+Co-founder, Divide (acquired by Google)
+Alexandra Depledge
+Co-founder, Hassle.com
+Alexandre Dalyac
+Co-founder, Tractable
+Alice Bentinck
+Co-founder, Entrepreneur First
+Alice Taylor
+CEO, Makielab
+Alicia Navarro
+CEO, Skimlinks
+Alliott Cole
+Director, Octopus Ventures
+Amy Lai
+Founder and CEO, Wittos
+Andrew Evans
+Co-founder and CEO, Smart Pension
+Andrew Fisher
+Executive Chairman, Shazam
+Andrew Gibb
+Founder, Coldpress
+Andrew Hunter
+Co-founder, Adzuna
+Andrew Jervis
+Co-founder, Clickmechanic
+Andrew Scott
+Founder partner, 7percent Ventures
+Andrew Tibbitts
+COO, TechHub
+Andrius Sutas
+Co-founder, AimBrain
+Andy Bennett
+Founder, Knodium Ltd
+Andy Hobsbawm
+Founder, EVRYTHNG
+Andy Stephenson
+Founder, Weekend Box
+Aneesh Varma
+Founder, Aire
+Anirvan Lahiri
+Co-founder, The Stay Guru
+Ankur Modi
+CEO, StatusToday
+Anne Johnson
+Founder, Cunning Systems
+Anthony Eskinazi
+Founder, JustPark
+Anton Wellenreiter
+Partner, Charlotte Street Capital
+Azmat Yusuf
+Founder, Citymapper
+Ben Drury
+Co-founder, 7digital
+Ben Gateley
+Co-founder and COO, The Eleven
+Ben Medlock
+Co-founder/CTO, SwiftKey
+Ben Perreau
+Co-founder, Synkio
+Ben Whately
+Co-founder, Memrise
+Bernhard Niesner
+Co-founder, Busuu
+Bill Earner
+Managing Partner, Connect Ventures
+Bindi Karia
+Startup expert, connector and advisor
+Bo Pedersen
+Partner, Charlotte Street Capital
+Brendan Gill
+CEO, OpenSignal
+Bruce Beckloff
+Managing Partner, Bloc Ventures
+Bryce Keane
+Founder, Albion Drive
+Cecile Baird
+CMO, Credits
+Charlie Newman
+Co-founder, Pinipa
+Charlie Osmond
+Founder, TripTease
+Charlotte Lacombe-Bar
+Co-founder, Mooshoo Labs
+Chris Dawson
+Co-founder, One Utility Bill
+Christian Hernandez
+Co-founder, White Star Capital
+Christopher Hunter
+Co-founder, Odyssey Sensors
+Colette Ballou
+Founder, Ballou PR
+Constantin Bjerke
+Founder, Crane.tv
+Dale Knight
+Co-founder, One Utility Bill
+Damien Lane
+Partner, Episode1
+Dan Bladen
+Founder, Chargifi
+Dan Sutherland
+Founder, Carrenza
+Daneal Bassiouni
+Co-founder, Homefund
+Daniel Benamran
+General Manager UK, BlaBlaCar
+Daniel van Binsbergen
+Co-founder, Lexoo
+David Cleevely
+Founder, Cambridge Angels
+David Fogel
+Deputy Director, Wayra UK
+David Galsworthy
+Co-founder and CEO, TechSpace
+Debbie Wosskow
+Co-founder, Love Home Swap
+Demis Hassabis
+Co-founder, DeepMind
+Devin Hunt
+Partner, Founder Centric
+Doug Monro
+Co-founder, Adzuna
+Douglas Bell
+Founder, London Innovators
+Eamon Jubbawy
+Co-founder, Onfido
+Edward Chin
+Co-founder, Supersolid
+Eeswaran Navaratnam
+Managing Partner, 01Ventures
+Elizabeth Varley
+Co-founder, TechHub
+Emanuel Andjelic
+Co-founder, Squirrel
+Emily Forbes
+Founder, Seenit
+Emma Sinclair
+Co-founder, EnterpriseJungle
+Eoin Hyde
+Co-founder, Innersight Labs
+Eric van der Kleij
+Head of Level39 & MD Entiq
+Evgeny Shadchnev
+Co-founder, Makers Academy
+Faith Forster
+Founder, Pinipa
+Felix Leuschner
+Founder, Drover App
+Florian Stronk
+Co-founder, Koyoki
+Frank Kelcz
+Founder, Excellerance
+Gary Thompson
+Founder, GoRaise
+Gavin Sathianathan
+Partner, Kingsley Capital Partners
+George Bevis
+CEO, TIDE
+George Marangos-Gilks
+Founder, The Tab
+George Spencer
+CEO, Rentify
+George Whitehead
+Chairman, Angel Cofund
+Gi Fernando
+Founder, Freeformers
+Gideon Farrell
+Co-founder, Converge
+Gil Dibner
+Investor
+Giles Andrew
+Executive chairman and Co-founder, Zopa
+Giovanni Charles
+Co-founder, Fluently.io
+Glenn Shoosmith
+CEO, BookingBug
+Gus Ferguson
+Managing Partner, The Tetrad Consultancy
+Guy Levin
+Executive Director, Coadec
+Haakon Overli
+General Partner, Dawn Capital
+Harry Briggs
+Partner, BGF Ventures
+Helen Cammack
+Co-founder, interests.me
+Henry Firth
+Founder, Pingtune
+Hermann Hauser
+Partner Amadeus Capital Partners and serial entrepreneur
+Hugh Collins
+Co-founder, Code Kingdoms
+Husayn Kassai
+Co-founder, Onfido
+Hussein Kanji
+Founding Partner, Hoxton Ventures
+Ilya Levtov
+Co-founder, Craft.co
+Irra Ariella Khi
+CEO, V Technology
+Itamar Lesuisse
+CEO, Peak
+Jack Huang
+Co-founder, TRULY Experiences
+Jamal MonDesir
+Founder, MADFoundry
+James Gill
+CEO, GoSquared
+Jamie Edwards
+COO, Kayako
+Jason Bolton
+Co-founder, Mooshoo Labs
+Jeff Lynn
+Co-founder, Seedrs
+Jennifer Arcuri
+Founder, InnoTech Summit
+Jenny Griffiths
+Founder, Snap Fashion
+Jeppe Zink
+Partner, Northzone
+Jessica Williamson
+Programme Director, TechStars
+Jo York
+CCO/CMO, Reframed.tv
+Joe Cohen
+Founder, Seatwave
+Joe Root
+Co-founder, Permutive
+Joelle Hadfield
+Co-founder, FightsMe.com
+John Hackett
+MD, ArenaFlowers.com
+John Henderson
+Principal, White Star Capital
+John Spindler
+CEO, Capital Enterprise
+John Thompson
+CEO, UserReplay
+Jon Bradford
+Co-founder, F6S & tech.eu
+Jon Petrides
+Co-founder, Guevara & Penda Health
+Jordan Emery
+MD, Quella
+Josh Russell
+Partner, Rokk3r Labs
+Joshua March
+Co-founder and CEO, Conversocial
+Julian Carter
+Co-founder, EC1 Capital
+Julian Ranger
+Founder, digi.me
+Julie Meyer
+Founder, EntrepreneurCountry; CEO, Ariadne Capital
+Kate Unsworth
+CEO, Kovert Designs
+Kevin Price
+CEO, Reframed.tv
+Kieran ONeill
+Co-founder, Thread
+Kristo Kaarmann
+Co-founder, TransferWise
+Leonard Austin
+Co-founder, Ravelin
+Lloyd Price
+Co-founder, Zesty
+Lopo Champalimaud
+Co-founder, Wahanda
+Luke Lang
+Co-founder, Crowdcube
+Mads Holmen
+Founder, Bibblio
+Mait Muntel
+Co-founder, Lingvist
+Marcus Greenwood
+CEO, Universal Basket
+Mark Russell
+Co-founder, Universal Basket
+Mark Ryan
+Co-founder, Blooie
+Marko Srsan
+Programme Operator, TechStars
+Martha Lane Fox
+Co-founder, Lastminute.com
+Martin Bailie
+Co-founder, Tailored
+Martin Sweeney
+CEO, Ravelin
+Matt Clifford
+Co-founder, Entrepreneur First
+Melvin Salas
+Co-founder, Leaf.fm
+Michael Thornton
+Co-founder, Carbon Analytics
+Mike Butcher
+Co-founder, TechHub
+Mike Lynch
+Founder, Invoke Capital
+Mike Minett
+Co-founder and MD, The Positive Ageing Company
+Monty Munford
+Founder, Mob76
+Mustafa Suleyman
+Co-founder, DeepMind
+Nabil Freeman
+Founder, Freeman Industries
+Nic Brisbourne
+Managing Partner, Forward Partners
+Nic Yeeles
+Founder and CEO, Peg
+Nicholas Katz
+Co-founder, Splittable
+Nicholas Russell
+Founder, We Are Pop Up
+Nicholas Sharp
+Associate, Passion Capital
+Nick Hungerford
+Co-founder and CEO, Nutmeg
+Nick Lally
+Co-founder, Ravelin
+Nigel Whiteoak
+Founder, LoveCrafts
+Oleg Fomenko
+Co-founder, SweatCoin, bloom.fm
+Oli Ashness
+Founder, Simply Cook
+Oliver Pugh
+Founder, EarlyBird.fm
+Patrick Stobbs
+Co-founder, Jukedeck
+Paul McNabb
+Partner, Episode1
+Paul Miller
+Partner, Bethnal Green Ventures
+Paul Slater
+Co-founder, Fit Gurus Ltd
+Paul Smith
+MD, Ignite and Campus North
+Pip Jamieson
+Founder, The Dots
+Prasanna Kannan
+Co-founder, Homefund
+Pratik Sampat
+CEO, iHorizon
+Raj Ramanandi
+CEO, #1Seed
+Rajeeb Dey
+Founder, Enternships
+Raph Crouan
+MD, Startupbootcamp IOT
+Rashid Mansoor
+Co-founder, Adbrain
+Razvan Ranca
+Co-founder, Tractable
+Reshma Sohoni
+Partner and Co-founder, Seedcamp
+Rhydian Lewis
+Co-founder and CEO, Ratesetter
+River Tamoor Baig
+Co-founder, Hack Partners
+Rob ODonovan
+Co-Founder of The Eleven and CharlieHR.com
+Robert Dighero
+Partner, Passion Capital
+Robin Klein
+Co-founder, The Accelerator Group and LocalGlobe
+Rohan Luvaglio
+Founder and CEO, Bizzby
+Ruhul Amin
+Co-founder, Onfido
+Russ Shaw
+Founder, Tech London Advocates
+Ryan Kliszat
+Co-founder, Verticly
+Saasha Celestial-One
+Co-founder, OLIO
+Sam Mathews
+CEO, NEVERBLAND
+Sam Michel
+Founder, Chinwag
+Sam Oakley
+CEO, StashMetrics
+Sandy Forster
+Co-founder, Pinipa
+Sanford Dickert
+CEO, OWLR
+Sarah Cochrane
+COO, Vetcloud
+Sarah Wood
+Co-founder, Unruly
+Saul Klein
+Founding Partner, LocalGlobe
+Sean Seton-Rogers
+Partner, PROFounders Capital
+Sherry Coutu
+Investor and non-exec director
+Simon Edwards
+Co-founder, Shuttlecook
+Simon Hill
+Co-founder, Wazoku
+Simon Murdoch
+Managing Partner, Episode1
+Spencer Hyman
+Co-founder, Navigator Commerce
+Stefan Glaenzer
+Partner, Passion Capital
+Taavet Hinrikus
+Co-founder, TransferWise
+Tak Lo
+Director, TechStars
+Tessa Cook
+Co-founder, OLIO
+Tim Jackson
+General Partner, Lean Investments
+Tim Spratt
+Co-founder, Permutive
+Tom Allason
+Founder, Shutl (acquired by Ebay)
+Tom Foster-Carter
+Co-founder, Curve
+Tom Jones
+Partner, Charlotte Street Capital
+Tom Watson
+Co-founder, Hubble
+Tony Powell
+Co-founder, Sponsorlist
+Tracy Dore
+Founding Partner, Spring Partners
+Tristan Deplantes
+Co-founder, Mooshoo Labs
+Turi Munthe
+Founder, Demotix
+Tushar Agarwal
+Co-founder, Hubble
+Ultan Miller
+Co-founder, Release
+Varun Shoor
+CEO, Kayako
+Vincent Dignan
+Founder, Magnific
+Vivian Chan
+Co-founder, Sparrho
+Wil Benton
+Co-founder, Chew
+Will Hodson
+Co-founder, The Big Deal
+Will Wynne
+Co-founder, ArenaFlowers.com and Smart Pension
+William Reeve
+Co-CEO, Hubbub.co.uk

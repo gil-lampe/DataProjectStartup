@@ -1,0 +1,9 @@
+I sat down with Co-Founder and CEO of Kano, Alex Klein, to talk about the new Kano Screen Kit and whats next for Kanos line of build-your-own computers.The new screen means the Kano is now a fully fledged computer anyone can make  particularly kids between the ages of 6 and 12.They can build a computer with plug-and-play pieces; make music and artworks with code; create games like Pong and Snake; and even code worlds in MinecraftKano provides an introduction to various programming languages including Python and Javascript. Kids will learn Python through our Kano Blocks by making Minecraft and Pong, and can dive into the world of Linux by going on a Terminal Quest and by making Snake.The Computer Kit comes with 11 plug-and-play components including:
+ A Raspberry Pi 2
+ Wireless keyboard with multi-touch trackpad
+ A DIY speaker, case-mounted and powered by GPIO
+ Power and HDMI cables
+ Wi-Fi dongle, Kano OS 8GB Memory Card
+ A US, UK or EU USB power supply
+ Two illustrated story books: Make a computer and Code powers
+ 4 sheets of stickers and case cardsThe Kano Computer Kit does not normally come with a screen but it works with almost any TV or Monitor with an HDMI connection.But they have just released The Screen Kit  a portable, HD display you build yourself. This demystifies how a display works and makes the Kano truly portable.They have also optimized their Kano OS for the Raspberry Pie Zero. Its even 6 times faster than previous versions. Its clearly no slouch.

@@ -1,0 +1,9 @@
+
+
+
+Facebook
+
+LinkedIn
+
+Farmlogs Brings Big Data to the Farm
+The American farmmay not be the first spot youd expect to be disrupted by big data, but todays farmers are already heavily utilizing new technologies to monitor their crops.Jesse Vollmar, founder and CEO of FarmLogs, told TechCrunchs Jon Shieber that his product, which helps farmers track and report metrics like heat accumulation, rainfall and soil composition, is being used on a third of farms across the United States.At FarmLogs we believe that data science is the next big wave of evolution on the farm. Today farmers are faced with this incredible challenge of increasing food production without getting any more land, so were going to have to accomplish massive efficiencies on the farm, Vollmar told the crowd at TechCrunch Disrupt in San Francisco.Farmers cant afford to leadlow-tech operations anymore, as the industryrapidlyevolvesto rely more heavily on huge amounts of data. One major issuewith agtech is that Silicon Valley has a tough time relating to the needs of farmers. Vollmar is a little bit more familiar than some; he grew up on afifth-generation family farm before moving into tackling enterprise software.Vollmar teased a new device onstage Tuesday that will make it easier than ever for farmers to feed their farms data into FarmLogs. It plugs directly into the combine and uploads the data it gathers over a data connection. The companys pursuing a subscription model and charging farmers $750 per year for the device.All landscapes are not created equal and the solutions that target one farm are certainly not going to be effective forothers. Vollmar said that where FarmLogs really continues to shineis in allowing farmers to quantify the variability on their fields and pursue solutions that work best for their specific needs.

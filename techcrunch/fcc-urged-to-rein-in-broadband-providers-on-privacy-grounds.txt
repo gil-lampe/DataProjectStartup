@@ -1,0 +1,119 @@
+More than 50 U.S. consumer and privacy organizations including the Center for Digital Democracy and the Electronic Frontier Foundation have co-signed a letter to FCC chairman Tom Wheeler calling for strongrules to protect the privacy of broadband users by reining inISPs and telcos ability toharvest userdata without explicit consent.Last year, as part of its net neutrality rule-making, the FCC reclassifiedbroadband as a so-called Title II telecommunications service under the 1934 Communications Act  amove that also paves the way for a more activeregulation of how ISPs use consumer data, given that the FCC can issue proper privacy regulations, vs the FTC only being able to do so for minors(under the Childrens Online Privacy Protection Act).Susan Grant of the Consumer Federation of America, anotherof the organizations co-signing the letter, citesthe Verizon* super-cookie smartphone tracking system as anexample of the kind of problematic behavior the NGOs are keen to see reined in byproperregulation. Initially Verizon offeredno way for smartphone users toopt out of being tracked by its technology. (*NB: Verizon is the parent company of TechCrunchs parent, AOL.)What tracking is going on now and how the info is being used is in most cases not readily apparent, arguesGrant.The letter calls for the FCC to move forward asquickly as possible on a Notice of Proposed Rulemaking proposing strong rules to protectconsumers from having their personal data collected and shared by their broadbandprovider without affirmative consent, or for purposes other than providing broadbandInternet access service.Italso calls for databreach notices to be included in rules, and forbroadband providers to be held accountable for any failure to take suitableprecautions to protect personal data collected from users. And for providersto be required toclearly disclose their data collection practices tosubscribers, and allow subscribers to ascertain to whom their data is disclosed.Grant suggestsit is widely known theFCC has been considering establishing privacy rules for broadband providers, noting it held a public workshop last year to discuss the issue.I expect that the FCC will be very receptive to this call as it has long regulated privacy in the other communications services that come under its jurisdiction, she tells TechCrunch.Also commenting on why theres a need for pro-privacy rules to protect broadband users at this point in time, Jeff Chester of the Center for Digital Democracyargues the techniques being used by ISPs to track users have become as sophisticated as thosebeing deployedby big data powered Internet giants like Google and Facebook.ISPs are using the same big-data tracking and targeting techniquesthat haveraised privacy concerns about Google and Facebook when we go online, he says, arguingthesecompanies pose a new threat to consumer privacy because they can have such in-depth access to data including from computers and mobile phones but also because they can knowwhatpeoplewatch via set-top boxes andconnected TVs.Phone and cable broadband companies (such as Verizon and Comcast) are connecting our TV sets, for example, to vast databases of information that enable advertisers and programmers to engage in microtargeting us commercials, ads, political messages, and other content, he notes. [They] are retooling their technology so they can engage in whats called programmatic advertising, that uses sophisticated data tools to target us in milliseconds, regardless of what digital device we use.Chester points to various acquisitions  including last years Verizon-AOL purchase  as having enabled ISPs and their partners to build out fine-grained data-driven advertising capabilities in recent times, with user targeting techniques and technologies driving multiple developments in the space.Verizon-AOL, for example,merged their ad networks lastOctoberto step up their ability to track users for ad targeting purposes  widelyseen as the primary motivator for the $4.4 billion acquisition.With ISPs positioned to have so much information about our online use, and further expand data surveillance when we view video programming, the FCC must step in and create a set of fair consumer safeguards, adds Chester.Thefull letter and listof co-signing organizationsfollows below.
+
+
+January 20, 2016
+Tom Wheeler
+Chairman
+Federal Communications Commission
+445 12th St., SW
+Washington, D.C. 20554
+Re: Broadband Privacy Rulemaking
+Dear Chairman Wheeler:
+The undersigned organizations urge you to commence a rulemaking as soon as possible
+to protect the privacy of broadband consumers. As Commissioner Julie Brill of the
+Federal Trade Commission (FTC) stated in a recent speech on broadband and privacy, the
+Federal Communications Commissions (FCC) reclassification of broadband as a Title II
+common carrier service adds it as a brawnier cop on the beat on privacy issues. She
+welcomed the opportunity for the two agencies to work in cooperation to create strong
+consumer privacy and data security [that] are key ingredients of our data-intensive
+economy, including the practices of broadband providers.
+Providers of broadband Internet access service, including fixed and mobile telephone,
+cable, and satellite television providers, have a unique role in the online ecosystem. Their
+position as Internet gatekeepers gives them a comprehensive view of consumer behavior
+and until now privacy protections for consumers using those services have been unclear.
+Nor is there any way for consumers to avoid data collection by the entities that provide
+Internet access service. As the role of the Internet in the daily lives of consumers
+increases, this means an increased potential for surveillance. This can create a chilling
+effect on speech and increase the potential for discriminatory practices derived from data
+use. By contrast, commonsense protections may lead to a broader adoption and use of the
+Internet, as individuals gain confidence in conducting everyday business and exploring
+new services online.
+With the recently signed Memorandum of Understanding on Consumer Protection
+between the FCC and FTC outlining continuing interagency cooperation on privacy, the
+FCC is now well positioned to take its place as that brawnier cop on the beat focusing
+on broadband providers. We therefore strongly urge that the FCC move forward as
+quickly as possible on a Notice of Proposed Rulemaking proposing strong rules to protect
+consumers from having their personal data collected and shared by their broadband
+provider without affirmative consent, or for purposes other than providing broadband
+Internet access service. The proposed rules should also provide for notice of data
+breaches, and hold broadband providers accountable for any failure to take suitable
+precautions to protect personal data collected from users. In addition, the rules should
+require broadband providers to clearly disclose their data collection practices to
+subscribers, and allow subscribers to ascertain to whom their data is disclosed.
+We thank you for your continuing commitment to consumer privacy protection. In
+addition to the Commissions important decision last year to retain authority to protect
+consumer privacy on broadband telecommunications services, the FCC has worked
+diligently under your administration to enforce existing privacy protections for voice
+communication, and to require greater transparency for broadband provider service
+practices. We look forward to working with you to modernize these existing rules to
+clarify crucially important protections for consumers online.
+Sincerely,
+Access
+Access Humboldt
+
+
+
+Access Sonoma Broadband
+American Association of Law Libraries
+American Civil Liberties Union
+Appalshop, Inc.
+Ashbury Senior Computer Community Center
+Benton Foundation
+Broadband Alliance of Mendocino County
+California Center for Rural Policy
+CALPIRG
+Campaign for Commercial-Free Childhood
+Caney Fork Headwaters Association
+Center for Democracy & Technology
+Center for Digital Democracy
+Center for Rural Strategies
+Center for Science in the Public Interest
+Chicago Consumer Coalition
+Children Now
+Common Sense Kids Action
+Consumer Action
+Consumer Assistance Council of Cape Cod and the Islands of Massachusetts
+Consumer Federation of America
+Consumer Federation of California
+Consumer Watchdog
+Cornucopia Network NJ/TN Chapter
+Cumberland Countians for Ecojustice
+Electronic Frontier Foundation
+Free Press
+Institute for Local Self-Reliance
+Kentucky Equal Justice Center
+Maryland Consumer Rights Coalition
+Massachusetts Consumer Council
+Maui County Community Television
+Mountain Area Information Network
+National Association of Consumer Advocates
+National Consumer Law Center (on behalf of its low income clients)
+National Consumers League
+National Digital Inclusion Alliance
+National Hispanic Media Coalition
+Network for Environmental & Economic Responsibility of United Church of Christ
+North Carolina Consumers Council
+Oklahoma Policy Institute
+Open Library
+Open Technology Institute at New America
+Oregon Consumer League
+Privacy Rights Clearinghouse
+Privacy Times
+Public Citizen
+Public Health Advocacy Institute at Northeastern University School of Law
+Public Knowledge
+Rudd Center for Food Policy & Obesity, University of Connecticut
+Schools, Health & Libraries Broadband Coalition (SHLB Coalition)
+Southern California Tribal Digital Village
+Texas Legal Services Center
+U.S. PIRG
+United Church of Christ, OC Inc.
+World Privacy Forum
+X-Lab
+
+January 20, 2016
+Tom Wheeler
+Chairman
+Federal Communications Commission
+445 12th St., SW
+Washington, D.C. 20554Re: Broadband Privacy RulemakingDear Chairman Wheeler:The undersigned organizations urge you to commence a rulemaking as soon as possibleto protect the privacy of broadband consumers. As Commissioner Julie Brill of theFederal Trade Commission (FTC) stated in a recent speech on broadband and privacy, theFederal Communications Commissions (FCC) reclassification of broadband as a Title IIcommon carrier service adds it as a brawnier cop on the beat on privacy issues. Shewelcomed the opportunity for the two agencies to work in cooperation to create strongconsumer privacy and data security [that] are key ingredients of our data-intensiveeconomy, including the practices of broadband providers.Providers of broadband Internet access service, including fixed and mobile telephone,cable, and satellite television providers, have a unique role in the online ecosystem. Theirposition as Internet gatekeepers gives them a comprehensive view of consumer behaviorand until now privacy protections for consumers using those services have been unclear.Nor is there any way for consumers to avoid data collection by the entities that provideInternet access service. As the role of the Internet in the daily lives of consumersincreases, this means an increased potential for surveillance. This can create a chillingeffect on speech and increase the potential for discriminatory practices derived from datause. By contrast, commonsense protections may lead to a broader adoption and use of theInternet, as individuals gain confidence in conducting everyday business and exploringnew services online.With the recently signed Memorandum of Understanding on Consumer Protectionbetween the FCC and FTC outlining continuing interagency cooperation on privacy, theFCC is now well positioned to take its place as that brawnier cop on the beat focusingon broadband providers. We therefore strongly urge that the FCC move forward asquickly as possible on a Notice of Proposed Rulemaking proposing strong rules to protectconsumers from having their personal data collected and shared by their broadbandprovider without affirmative consent, or for purposes other than providing broadbandInternet access service. The proposed rules should also provide for notice of databreaches, and hold broadband providers accountable for any failure to take suitableprecautions to protect personal data collected from users. In addition, the rules shouldrequire broadband providers to clearly disclose their data collection practices tosubscribers, and allow subscribers to ascertain to whom their data is disclosed.We thank you for your continuing commitment to consumer privacy protection. Inaddition to the Commissions important decision last year to retain authority to protectconsumer privacy on broadband telecommunications services, the FCC has workeddiligently under your administration to enforce existing privacy protections for voicecommunication, and to require greater transparency for broadband provider servicepractices. We look forward to working with you to modernize these existing rules toclarify crucially important protections for consumers online.Sincerely,AccessAccess HumboldtAccess Sonoma BroadbandAmerican Association of Law LibrariesAmerican Civil Liberties UnionAppalshop, Inc.Ashbury Senior Computer Community CenterBenton FoundationBroadband Alliance of Mendocino CountyCalifornia Center for Rural PolicyCALPIRGCampaign for Commercial-Free ChildhoodCaney Fork Headwaters AssociationCenter for Democracy & TechnologyCenter for Digital DemocracyCenter for Rural StrategiesCenter for Science in the Public InterestChicago Consumer CoalitionChildren NowCommon Sense Kids ActionConsumer ActionConsumer Assistance Council of Cape Cod and the Islands of MassachusettsConsumer Federation of AmericaConsumer Federation of CaliforniaConsumer WatchdogCornucopia Network NJ/TN ChapterCumberland Countians for EcojusticeElectronic Frontier FoundationFree PressInstitute for Local Self-RelianceKentucky Equal Justice CenterMaryland Consumer Rights CoalitionMassachusetts Consumer CouncilMaui County Community TelevisionMountain Area Information NetworkNational Association of Consumer AdvocatesNational Consumer Law Center (on behalf of its low income clients)National Consumers LeagueNational Digital Inclusion AllianceNational Hispanic Media CoalitionNetwork for Environmental & Economic Responsibility of United Church of ChristNorth Carolina Consumers CouncilOklahoma Policy InstituteOpen LibraryOpen Technology Institute at New AmericaOregon Consumer LeaguePrivacy Rights ClearinghousePrivacy TimesPublic CitizenPublic Health Advocacy Institute at Northeastern University School of LawPublic KnowledgeRudd Center for Food Policy & Obesity, University of ConnecticutSchools, Health & Libraries Broadband Coalition (SHLB Coalition)Southern California Tribal Digital VillageTexas Legal Services CenterU.S. PIRGUnited Church of Christ, OC Inc.World Privacy ForumX-Lab

@@ -1,0 +1,6 @@
+Were live in a rather humble little room at the W hotel in San Francisco, where Sony is showing off the latest prototype of itsProject Morpheus VR headset to a handful of reporters.Externally, the latest prototype looks about the same.At this point, though, its whats on the inside of a VR headset that counts. Without beefy hardware inside, that sense of presence is lost.Heres whats changed in Prototype 2: The 5 inch LCD has been bumped up to a 5.7 Screen OLED Display with a resolution of 1920xRGBx1080
+ It now has a 100 Degree Field Of View (Original: 90 degree FOV)
+ 120Hz Refresh Rate (Up from 60hz). Higher refresh rate means less blur, better immersion, and less motion sickness.
+ Theyve added three more LED trackers, bringing the total up to 9
+ Theyve brought latency down beneath 18ms
+ The headset can be slid in and out without removing it completely, allowing you to adjust it for comfort and peek at the outside world around you.And as they ended the presentation, Sony dropped one more bit of news: Project Morpheus will launch to consumers in the first half of 2016.

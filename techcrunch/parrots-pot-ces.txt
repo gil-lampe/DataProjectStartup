@@ -1,0 +1,9 @@
+
+
+
+Facebook
+
+LinkedIn
+
+Parrot Pot
+Parrot is probably best known for its drones, but the company actually offers a wide range of products that also includes headphones and in-car infotainment technology.Last year at CES, Parrot first showed its robotic plant pot. At the time, that was just a prototype, but now the company is ready to launch this new product line in the first quarter of 2016.The pot, which will retail for $99, can hold just over 2 liters of water (or about half a gallon for those who dont like the metric system). For most plants, thats about a week of water, but the pot can also go into water-saving mode and keep a plant alive for about a three-week period (maybe four, depending on the plant).You control the pot through a mobile app (aptly named Flower Power). With this, you can select which plant you have from a database of about 8,000 plants and then you connect to the pot over Bluetooth. Its basically a dashboard for your plants.The pot is outfitted with a number of sensors to measure soil moisture and temperature, fertilizer, room temperature, and light intensity. It then records this data every 15minutes and sends it to Parrots cloud-based services for analysis (as long as its connected to your phone). When youre away, itll just go with the median parameters to keep your plant alive.At $100, the Pot is a bit cheaper than we expected (I thought itd be about $200 when the company showed the first prototype). If youre prone to killingyour houseplants, the Pot is probably worth a try (or you could just go lo-fi and build your own).
