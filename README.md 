@@ -1,0 +1,27 @@
+## Synopsis and motivation
+
+The goal of this project is to analyse trends in the creation of startups and
+Venture Capital investments in various markets worldwide. Several types of data
+shall be used during this project: news articles from Techcrunch and investments
+data from Crunchbase. The ambition is to be able to extract powerful market
+intelligence to:
+• Understand why startups fail
+• Know what key differentiations are important for VCs
+• Identify markets currently being disrupted & tomorrow’s opportunities
+• Map the VC ecosystem with relationships & targeted markets
+
+## Project advancement
+
+A first group of students have already worked on this project during 4 months. They used Anseri as tool to formate data.
+Actually, we think that we can use tensorflow as tool to continue the project.
+
+## Installation
+
+Provide code examples and explanations of how to get the project.
+
+## Contributors
+This project is mainly developped by students from Polytechnique & Berkeley.
+
+## License
+
+This is a scientific project supervised by Berkeley and Polytechnique.
