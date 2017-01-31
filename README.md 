@@ -17,7 +17,9 @@ Actually, we think that we can use tensorflow as tool to continue the project.
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+- Python
+- Librairies : NLTK, Word2Vec, Numpy, iGraph, Anaconda, selenium, TensorFlow
+- All tutorials are available in the directory DeepLearningTutorials
 
 ## Contributors
 This project is mainly developped by students from Polytechnique & Berkeley.

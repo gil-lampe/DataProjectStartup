@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60110355-d262-4b4c-bfff-218afe33df0b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/techcrunch data/metadata_full.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TechCrunch_hand.xlsx" afterPath="$PROJECT_DIR$/TechCrunch_hand.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/techcrunch data/techcrunch.py" afterPath="$PROJECT_DIR$/techcrunch data/techcrunch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/gradient_descent" afterPath="$PROJECT_DIR$/DeepLearningTutorials/gradient_descent" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/ipython-notebooks" afterPath="$PROJECT_DIR$/DeepLearningTutorials/ipython-notebooks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/intro-to-python" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/intro-to-python" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/intro-to-sklearn" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/intro-to-sklearn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/intro-to-tensorflow" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/intro-to-tensorflow" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/introduction_to_ml_with_python" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/introduction_to_ml_with_python" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/ipython" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/ipython" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/ipython-in-depth" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/ipython-in-depth" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/ipython_notebooks" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/ipython_notebooks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python-bootcamp" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python-bootcamp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python-drawnow" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python-drawnow" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python-fundamentals" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python-fundamentals" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python-getting-started" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python-getting-started" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python_and_ml_classes" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python_and_ml_classes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md " afterPath="$PROJECT_DIR$/README.md " />
     </list>
     <ignored path="DataProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,30 +35,7 @@
     <favorites_list name="DataProject" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="techcrunch.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/techcrunch data/techcrunch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="120" column="44" selection-start-line="120" selection-start-column="44" selection-end-line="120" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lab1_single_spreaders_moodle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/lab1_moodle/Code/lab1_single_spreaders_moodle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,8 +58,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="32" />
-    <option name="y" value="23" />
+    <option name="x" value="343" />
+    <option name="y" value="28" />
     <option name="width" value="1366" />
     <option name="height" value="741" />
   </component>
@@ -264,7 +253,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="32" y="23" width="1366" height="741" extended-state="1" />
+    <frame x="343" y="28" width="1366" height="741" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -377,8 +366,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/techcrunch data/techcrunch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="120" column="44" selection-start-line="120" selection-start-column="44" selection-end-line="120" selection-end-column="44" />
+        <state relative-caret-position="285">
+          <caret line="119" column="9" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
