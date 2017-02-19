@@ -99,12 +99,9 @@ def get_average_cumulative_influence_of_group(dir,column_needed):
 
             ## Hint: use the get_last_line function to get the last line the file
             ## and get the value needed from the correct column.
+            line = get_last_line(file)
+            total_inf = line[column_needed]
 
-            ###################
-            #                 #
-            # YOUR CODE HERE  #
-            #                 #
-            ###################
             node_cumulative_influence.append(float(total_inf))
 
     return ( sum(node_cumulative_influence) / float(len(node_cumulative_influence)) )
@@ -178,19 +175,22 @@ def plot_results(results,results_length,results_file):
 
 ### task 1a ###
 results={}
-
 for group in groups:
-
+    average_behavior_of_group = []
 
     ## Hint: use the get_directory_needed function to get the directory needed to access the txt files
     ## in every group and then use the get_average_behavior_of_group to get the array needed.
     ## Store the array as a value in the dictionary named results.
 
+    file = get_directory_needed(base_dir,'scenario1',group)
+    average_behavior_of_group.append(get_average_behavior_of_group(file,2))
+    results.append(average_behavior_of_group)
     ###################
     #                 #
     # YOUR CODE HERE  #
     #                 #
     ###################
+
 
     min_length=len(average_behavior_of_group)
 

@@ -12,6 +12,7 @@ results_task1a='../MultipleSpreaders/task1a.pdf'
 results_task1b='../MultipleSpreaders/task1b.txt'
 undirected_network_file="../undirected_gcc/undirected_Wiki-Vote.txt"
 results_task2='../MultipleSpreaders/task2.txt'
+LT_Greedy = '../MultipleSpreaders/Greedy/MC_100/LT_Greedy.txt'
 
 ## get directory needed ##
 def get_directory_needed(base_dir, setting):
@@ -106,6 +107,8 @@ for setting in settings:
     #                 #
     ###################
 
+
+
 plot_results(results,results_task1a,l)
 
 ### task 1b ###
@@ -131,11 +134,15 @@ G=nx.read_edgelist(undirected_network_file)
 ## called degree_node_dictionary. Use the get_results function to get the node ids from the appropriate column.
 ## The files containing the results are titled 'LT_Greedy.txt'. Store the ids in an array called node_ids.
 
+node1=nx.create()
+
 ###################
 #                 #
 # YOUR CODE HERE  #
 #                 #
 ###################
+
+
 
 f=open(results_task2,'w')
 f.write('Max_Degree Max_Core'+'\n')

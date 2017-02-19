@@ -1,25 +1,25 @@
 import numpy as np
+import matplotlib.pyplot as plt
 kmax = 53
 Kmax = 23
 beta = 0.01
 gamma = 0.8
 E = 100736
 V = 7006
+directoryA = "../singlespreaders/sir/scenario1/groupA"
+directoryB = "../singlespreaders/sir/scenario1/groupB"
+directoryC = "../singlespreaders/sir/scenario1/groupC"
 
-I = []
-#f = open('av_sir_results_node2.txt','r')
-#a = f.read()
-#print a
+table =[]
+
+
 matrice = np.loadtxt('av_sir_results_node2.txt', skiprows=1)
-#print matrice
-#matrice = np.array(a)
-#print matrice
-#print len(matrice)
 
-#column2 = matrice[:,1]
-#column3 = matrice[:,2]
-#print np.mean(column2)
-#print np.mean(column3)
+column2 = matrice[:,1][:10] #10
+column3 = sum(matrice[:,2])
+#print(matrice)
+print column2
+print column3
 
 
 

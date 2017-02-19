@@ -2,6 +2,153 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60110355-d262-4b4c-bfff-218afe33df0b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/reading.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_VC.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/data/.labeledTrainData.tsv.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/data/.testData.tsv.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/data/.unlabeledTrainData.tsv.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/.income.csv.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/samsung/.samsungdata.csv.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/samsung/.samsungmin.csv.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/test/.X_test.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/test/Inertial Signals/.body_acc_x_test.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/test/Inertial Signals/.body_acc_y_test.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/test/Inertial Signals/.body_acc_z_test.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/test/Inertial Signals/.body_gyro_x_test.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/test/Inertial Signals/.body_gyro_y_test.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/test/Inertial Signals/.body_gyro_z_test.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/test/Inertial Signals/.total_acc_x_test.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/test/Inertial Signals/.total_acc_y_test.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/test/Inertial Signals/.total_acc_z_test.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/train/.X_train.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/train/Inertial Signals/.body_acc_x_train.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/train/Inertial Signals/.body_acc_y_train.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/train/Inertial Signals/.body_acc_z_train.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/train/Inertial Signals/.body_gyro_x_train.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/train/Inertial Signals/.body_gyro_y_train.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/train/Inertial Signals/.body_gyro_z_train.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/train/Inertial Signals/.total_acc_x_train.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/train/Inertial Signals/.total_acc_y_train.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/datasets/ucihar/train/Inertial Signals/.total_acc_z_train.txt.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/A0. Before You Begin-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/A1. Linear Regression - Overview-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/A2. Linear Regression - Data Exploration - Lending Club-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/A3. Linear Regression - Analysis-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/B2. Logistic Regression - Data Exploration-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/B3. Logistic Regression - Analysis-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/C1. Random Forests - Overview-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/C2. Random Forests - Data Exploration-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/C3. Random Forests - Analysis-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/D1. K-Means Clustering - Overview-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/D2. K-Means Clustering - Data Exploration-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/D3. K-Means Clustering Analysis-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/Kaggle Word2Vec-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/MangoData-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/WA1. Linear Regression Overview Worksheet-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/WA2. Linear Regression - Data Exploration - Lending Club Worksheet-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/WA3. Linear Regression - Analysis Worksheet-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/WA4. Linear Regression - Data Cleanup-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/WB3. Logistic Regression - Analysis- Worksheet-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/WC3. Random Forests - Analysis - Worksheet-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/WC4. Random Forests - Data Cleanup-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/WD2. K-Means Clustering - Data Exploration-Worksheet-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/WD3. K-Means Clustering Analysis - Worksheet-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/Z0. A quick tour of the IPython notebook-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/Z1. Appendix 1 Plotting code snippets -checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/ZZZ1. Recording test-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/numpy-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/.ipynb_checkpoints/pandas-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/A0. Before You Begin.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/A1. Linear Regression - Overview.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/A2. Linear Regression - Data Exploration - Lending Club.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/A3. Linear Regression - Analysis.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/B1. Logistic Regression - Overview.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/B1a. Odds, LogOdds and Logit Function .ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/B2. Logistic Regression - Data Exploration.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/B3. Logistic Regression - Analysis.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/C1. Random Forests - Overview.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/C2. Random Forests - Data Exploration.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/C3. Random Forests - Analysis.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/D1. K-Means Clustering - Overview.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/D2. K-Means Clustering - Data Exploration.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/D3. K-Means Clustering Analysis.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/Kaggle Bag of Words (Movie Reviews).ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/Kaggle Word2Vec.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/NotebookIndex.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/WA1. Linear Regression Overview Worksheet.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/WA2. Linear Regression - Data Exploration - Lending Club Worksheet.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/WA3. Linear Regression - Analysis Worksheet.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/WA4. Linear Regression - Data Cleanup.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/WB3. Logistic Regression - Analysis- Worksheet.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/WC3. Random Forests - Analysis - Worksheet.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/WC4. Random Forests - Data Cleanup.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/WD2. K-Means Clustering - Data Exploration-Worksheet.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/WD3. K-Means Clustering Analysis - Worksheet.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/Z0. A quick tour of the IPython notebook.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/Z1. Appendix 1 Plotting code snippets .ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/figs/allconnections.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/figs/animation.m4v" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/figs/darts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/figs/latency.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/figs/latency2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/figs/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/figs/map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/figs/python-logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/figs/throughput1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/figs/throughput2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/figs/wideView.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/figs/wideView400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/NFLscores.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/NFLscores2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/NFLscores3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/a1fig1_labexperiment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/a1fig2_labexperiment_withline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/a1fig3_labexperiment_slopeintercept.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/a1fig4_twolabexperiments.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/b1fig1_nfloutcomes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/b1fig2_nfloutcomes_withline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/boxplot_fulldataset.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/decisiontree_titanic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/example.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/fullFICO.expository.smooth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/fullFICO.smooth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/height_vs_age.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/highFICO.smooth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/histFicoScores.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/histInterestRate.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/histInterestRateColor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/important.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/kmeans_example.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/logisticMPG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/lowFICO.smooth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/midFICO.smooth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/nflscoresplusabline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/physicslab1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/physicslab2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/randomforests_c2_figure1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/regressionline_fulldataset.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/regressionline_fulldataset2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/rfconfusionmat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/rftestsetpred.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/rfvalsetpred.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/scatterplotmatrix3var.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/scatterplotmatrix5var.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/scatterplotmatrixNonvars.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/standardSigmoidFunction.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/images/titanic_survivors.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/kmeans.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/linreg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/logreg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/matplotlib-applied.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/matplotlib.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/mknbindex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/numpy.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/oo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/pandas.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/notebooks/randomforests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/techcrunch data/.metadata_full.json.icloud" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/techcrunch data/techcrunch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/techcrunch data/techcrunch.xlsx" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/gradient_descent" afterPath="$PROJECT_DIR$/DeepLearningTutorials/gradient_descent" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/ipython-notebooks" afterPath="$PROJECT_DIR$/DeepLearningTutorials/ipython-notebooks" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/intro-to-python" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/intro-to-python" />
@@ -16,7 +163,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python-fundamentals" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python-fundamentals" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python-getting-started" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python-getting-started" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python_and_ml_classes" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/ressources/python_and_ml_classes" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md " afterPath="$PROJECT_DIR$/README.md " />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/Code/lab1_multiple_spreaders_moodle.py" afterPath="$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/Code/lab1_multiple_spreaders_moodle.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/Code/lab1_single_spreaders_moodle.py" afterPath="$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/Code/lab1_single_spreaders_moodle.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/lab1_data/singlespreaders/sir/scenario1/groupA/Ex1_Single_spreader.py" afterPath="$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/lab1_data/singlespreaders/sir/scenario1/groupA/Ex1_Single_spreader.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/IntroductionDL.ipynb" afterPath="$PROJECT_DIR$/DeepLearningTutorials/IntroductionDL.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/data/Kaggle Bag of Words (Movie Reviews).ipynb" afterPath="$PROJECT_DIR$/DeepLearningTutorials/nborwankar-LearnDataScience-739a002/data/Kaggle Bag of Words (Movie Reviews).ipynb" />
     </list>
     <ignored path="DataProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,7 +187,42 @@
     <favorites_list name="DataProject" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="techcrunch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/techcrunch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="71" column="67" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="67" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reading.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/reading.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="66" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keyword_extraction.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/keyword_extraction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="29" column="70" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,13 +240,28 @@
         <option value="$PROJECT_DIR$/techcrunch/techcrunch.py" />
         <option value="$PROJECT_DIR$/Anseri/linkedin_scraping.py" />
         <option value="$PROJECT_DIR$/VC_data_scrapping/VC_scrapping.py" />
+        <option value="$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/Code/lab1_multiple_spreaders_moodle.py" />
+        <option value="$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/lab1_data/singlespreaders/sir/scenario1/groupA/Ex1_Single_spreader.py" />
+        <option value="$PROJECT_DIR$/DeepLearningTutorials/for moodle/code/dataset/Ex1_real_word_graph.py" />
+        <option value="$PROJECT_DIR$/DeepLearningTutorials/for moodle/code/part1/code_lab_exploration.py" />
+        <option value="$PROJECT_DIR$/DeepLearningTutorials/for moodle/code/part2/code_lab_community_detection.py" />
+        <option value="$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/Code/lab1_single_spreaders_moodle.py" />
+        <option value="$PROJECT_DIR$/DeepLearningTutorials/key_word_extraction/code/library.py" />
+        <option value="$PROJECT_DIR$/DeepLearningTutorials/key_word_extraction/code/gow_toy.py" />
+        <option value="$PROJECT_DIR$/Test/test.py" />
+        <option value="$PROJECT_DIR$/Test/Lib_Word2Vec/test.py" />
         <option value="$PROJECT_DIR$/techcrunch data/techcrunch.py" />
+        <option value="$PROJECT_DIR$/Test/Lib_tensorflow/tensorflow.py" />
+        <option value="$PROJECT_DIR$/Test/Lib_tensorflow/skip_gram.py" />
+        <option value="$PROJECT_DIR$/data_VC.py" />
+        <option value="$PROJECT_DIR$/code/reading.py" />
+        <option value="$PROJECT_DIR$/code/keyword_extraction.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="343" />
-    <option name="y" value="28" />
+    <option name="x" value="8" />
+    <option name="y" value="23" />
     <option name="width" value="1366" />
     <option name="height" value="741" />
   </component>
@@ -88,18 +290,50 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JE/Chronomap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Test" />
       <recent name="$PROJECT_DIR$/techcrunch" />
     </key>
   </component>
@@ -253,16 +487,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="343" y="28" width="1366" height="741" extended-state="0" />
+    <frame x="8" y="23" width="1366" height="741" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28996283" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33744222" sideWeight="0.11524164" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24653313" sideWeight="0.3732342" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21571648" sideWeight="0.48252788" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33744222" sideWeight="0.88475835" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3220339" sideWeight="0.6267658" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -274,6 +508,25 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24653313" sideWeight="0.3732342" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21571648" sideWeight="0.48252788" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24653313" sideWeight="0.6267658" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15613383" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -288,21 +541,83 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/techcrunch data/techcrunch.py">
+    <entry file="file://$PROJECT_DIR$/Test/Lib_Word2Vec/test.py" />
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/key_word_extraction/code/library.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/key_word_extraction/code/gow_toy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/for moodle/code/part2/code_lab_community_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/Code/lab1_multiple_spreaders_moodle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/for moodle/code/part2/community_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/for moodle/code/part2/code_lab_community_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/lab1_data/singlespreaders/sir/scenario1/groupA/av_sir_results_node1005.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/Code/lab1_multiple_spreaders_moodle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/lab1_data/singlespreaders/sir/scenario1/groupA/Ex1_Single_spreader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/lab1_data/multiplespreaders/Greedy/MC_100/LT_Greedy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/techcrunch data/techcrunch.py" />
     <entry file="file://$PROJECT_DIR$/techcrunch/techcrunch.py" />
     <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
@@ -320,15 +635,168 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/techcrunch/techcrunch.py" />
-    <entry file="file://$USER_HOME$/Downloads/lab1_moodle/Code/lab1_multiple_spreaders_moodle.py">
+    <entry file="file://$USER_HOME$/Downloads/lab1_moodle/Code/lab1_multiple_spreaders_moodle.py" />
+    <entry file="file://$PROJECT_DIR$/Anseri/VC_scrapping.py" />
+    <entry file="file://$PROJECT_DIR$/VC_data_scrapping/VC_scrapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/lab1_moodle/Code/lab1_single_spreaders_moodle.py" />
+    <entry file="file://$PROJECT_DIR$/Anseri/linkedin_scraping.py" />
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/lab1_data/multiplespreaders/Greedy/MC_100/LT_Greedy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/lab1_data/singlespreaders/sir/scenario1/groupA/av_sir_results_node12.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/lab1_data/singlespreaders/sir/scenario1/groupA/Ex1_Single_spreader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/lab1_data/singlespreaders/sir/scenario1/groupA/av_sir_results_node1005.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/for moodle/code/dataset/CA-HepTh.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11700">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/for moodle/code/dataset/Ex1_real_word_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/for moodle/code/part1/code_lab_exploration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/Code/lab1_single_spreaders_moodle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="187" column="23" selection-start-line="187" selection-start-column="23" selection-end-line="187" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/Altegrad_lab1_moodle/Code/lab1_multiple_spreaders_moodle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/for moodle/code/part2/code_lab_community_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/for moodle/code/part2/community_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/ipython-notebooks/maildir2/allen-p/_sent_mail/1.">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/ipython-notebooks/scripts/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/key_word_extraction/code/library.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/test.py" />
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/key_word_extraction/code/gow_toy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/word2vec/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Lib_tensorflow/tensorflow.py" />
+    <entry file="file://$PROJECT_DIR$/Test/1-7-million-people-are-testing-windows-10.txt" />
+    <entry file="file://$PROJECT_DIR$/../KaggleChallenge/baseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1064">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Lib_Word2Vec/test.py" />
+    <entry file="file://$PROJECT_DIR$/techcrunch data/techcrunch.py" />
+    <entry file="file://$PROJECT_DIR$/Test/Lib_tensorflow/skip_gram.py" />
+    <entry file="file://$PROJECT_DIR$/data_VC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/techcrunch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="71" column="67" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JE/Chronomap/scripts/test_controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Anseri/VC_scrapping.py">
+    <entry file="file://$PROJECT_DIR$/code/library.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -336,38 +804,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VC_data_scrapping/VC_scrapping.py">
+    <entry file="file://$PROJECT_DIR$/code/reading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/lab1_moodle/Code/lab1_single_spreaders_moodle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="66" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Anseri/linkedin_scraping.py">
+    <entry file="file://$PROJECT_DIR$/code/keyword_extraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1754">
-          <caret line="194" column="53" selection-start-line="194" selection-start-column="53" selection-end-line="194" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/techcrunch data/techcrunch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="119" column="9" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
+        <state relative-caret-position="240">
+          <caret line="29" column="70" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
